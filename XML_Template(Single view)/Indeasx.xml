@@ -2,3 +2,7 @@
 <stages>
     <scene name="frmSplash" type="modal" navForward="EaseScene" navBackward="EaseScene" duration="0"/>
 </stages>asdsadasdsad
+<datepicker>Hello World</datepicker><datepicker>Hello World</datepicker>
+<Listpicker>Hello World</Listpicker>
+
+<label>Hello World</label>
