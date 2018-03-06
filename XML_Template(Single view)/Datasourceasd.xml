@@ -1,7 +1,9 @@
-ssasdsadsad<button>He<checkbox>
+ssas<label>Hello World</label>dsadsad<button>He<checkbox>
   Hello World</checkbox><datepicker>Hello
   World</datepicker><label>Hello World</label><datepicker>Hello
   World</datepicker><label>Hello World</label><Listpicker>Hello World</Listpicker>
   <label>Hello World</label>
   <image>Hello World</image>
-  <Listpicker>Hello World</Listpicker>
+  <Listpicker>Hello World</Listpicker><datepicker>Hello World</datepicker>
+  <image>Hello World</image>
+  <image>Hello World</image><label>Hello World</label><Listview>Hello World</Listview>
