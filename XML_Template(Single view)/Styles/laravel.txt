@@ -1,5 +1,0 @@
-composer create-project laravel/laravel --prefer-dist crud55
-$ php artisan make:model Car --migration //migrate car model
-$ php artisan migrate // migrate all table
-php artisan serve // run the laravel project
-php artisan make:auth //create authentication
