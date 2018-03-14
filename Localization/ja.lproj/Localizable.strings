@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Mo Cariaga on 25/07/2017.
+  Copyright © 2017 iGen Technologies. All rights reserved.
+*/
+"Ruby Mobile" = "ルビーモバイル";
+"Hello World" = "こんにちは世界";
+"Hello World\\nHello Universe" = "ハローワールド\nハローユニバース";
+"Hello Universe" = "ハローユニバース";
+"Show Alert View" = "アラートビューを表示";
+"Cancel" = "キャンセル";
+"OK" = "[OK]";
+"Done" = "完了";
+"Home" = "ホーム";
+"Save" = "セーブ";
+"Show HUD Indicator" = "HUDインジケータを表示する";
+"Processing" = "処理";
+"Please wait..." = "お待ちください...";
+"Email" = "Eメール";
+"SMS" = "SMS";

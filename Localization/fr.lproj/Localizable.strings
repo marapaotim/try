@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Mo Cariaga on 25/07/2017.
+  Copyright © 2017 iGen Technologies. All rights reserved.
+*/
+"Hello World" = "Bonjour le monde";
+"Show Alert View" = "Afficher la vue d'alerte";
+"Cancel" = "Bonjour";
+"OK" = "D'accord";
+"Home" = "Accueil";
+"Save" = "Sauvegarder";
+"Show HUD Indicator" = "Afficher l'indicateur HUD";
+"Processing" = "En traitement";
+"Please wait..." = "S'il vous plaît, attendez...";
+"Email" = "Email";
+"SMS" = "SMS";

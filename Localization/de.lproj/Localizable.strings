@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Mo Cariaga on 25/07/2017.
+  Copyright © 2017 iGen Technologies. All rights reserved.
+*/
+"Ruby Mobile" = "Ruby-Mobil";
+"Hello World" = "Hallo Welt";
+"Show Alert View" = "Alert-Ansicht anzeigen";
+"Cancel" = "Stornieren";
+"OK" = "OK";
+"Home" = "Zuhause";
+"Save" = "sparen";
+"Show HUD Indicator" = "HUD-Indikator anzeigen";
+"Processing" = "wird bearbeitet";
+"Please wait..." = "Warten Sie mal...";
+"Email" = "Email";
+"SMS" = "SMS";

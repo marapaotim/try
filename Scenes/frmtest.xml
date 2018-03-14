@@ -1,0 +1,33 @@
+<scenes>
+    
+    <styles>
+        
+       
+        
+    </styles>
+    
+    
+    <assets>
+        <viewcontroller name="viewController1" title="Title" backColor="" hidebackbutton="NO">
+			<viewwillappear>
+			</viewwillappear>
+			<leftbutton>
+			</leftbutton>
+		</viewcontroller>
+		<view name="view1" backColor="">
+			<ontouchupinside>
+			</ontouchupinside>
+		</view>
+    </assets>
+    
+    <actions>
+        <action name="actStartup">
+			<display time="0" parentView="[String]" styleClass="globalStyles.background">
+			   
+			</display>
+			<pushViewController time="0" controller="[String]" animated="YES">
+				navController
+			</pushViewController>
+		</action>
+    </actions>
+</scenes>

@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Mo Cariaga on 25/07/2017.
+  Copyright © 2017 iGen Technologies. All rights reserved.
+*/
+"Hello World" = "Hello";
+"Scan Devices" = "Scan Devices";
